@@ -3,9 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <h1 className="text-6xl font-bold underline">
-    Hello world!
+  
+
+    <div className='bg-purple-500'>
+    <h1 className="text-6xl font-bold ">
+    Hello kanban!
   </h1>
+
+  </div>
 
   );
 }
