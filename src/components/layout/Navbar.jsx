@@ -21,7 +21,7 @@ function Navbar() {
     </div>
   </div>
   <div className="navbar-center">
-    <a className="btn btn-ghost normal-case text-xl">Kanban NC</a>
+    <Link to={'/'} className="cursor-pointer normal-case text-sm">Kanban NC</Link>
   </div>
   <div className="navbar-end px-6  ">
 
